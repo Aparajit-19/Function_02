@@ -1,8 +1,11 @@
-<h2 align="left">Hey, I'm Aparajit!</h2>
-<ul>
-<li align="left">🔭 I am seeking collaborative opportunities involving small-scale projects or intriguing concepts that have the potential to generate significant impact.</li>
-<li align="left">💬 Ping me about anything, (mail me).</li>
-</ul>
+<h2 align="left">Description:</h2>
+<ol>
+<li align="left">Required "highlightHTMLContent" function is in ./function.js file.</li>
+<li align="left">By Aparajit Sharan (CSE).</li>
+<li align="left">check_input.js file contain the given inputs.</li>
+<li align="left">check_fun.png contains the comparison between my output and given output.</li>
+</ol>
+
 
 
 
